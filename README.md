@@ -1,2 +1,2 @@
-# Image-stitching
-Stitches any n images together to form one big image 
+## Image stitching
+This project provides an automated approach to image stitching using the SIFT (Scale-Invariant Feature Transform) detector. With SIFT, the algorithm robustly identifies and matches key points across overlapping images, regardless of scale, rotation, or illumination changes. By leveraging these distinctive features, the pipeline efficiently aligns input photos and blends them seamlessly to create a panoramic composite. It can be used for any n images stored in the images folder
